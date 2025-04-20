@@ -1,0 +1,2 @@
+city:none
+climate:hot
